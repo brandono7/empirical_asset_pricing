@@ -1,0 +1,9 @@
+train_start,train_end,val_start,val_end,overall_r2,best_params,tuning_info
+1990-01-01,2015-12-31,2016-01-01,2016-12-31,0.20093865184449267,"{'max_depth': 7, 'n_estimators': 150}","Tuned: {'max_depth': 7, 'n_estimators': 150}"
+1991-01-01,2016-12-31,2017-01-01,2017-12-31,0.10697566920506352,"{'max_depth': 7, 'n_estimators': 50}","Tuned: {'max_depth': 7, 'n_estimators': 50}"
+1992-01-01,2017-12-31,2018-01-01,2018-12-31,0.1901671580441584,"{'max_depth': None, 'n_estimators': 150}","Tuned: {'max_depth': None, 'n_estimators': 150}"
+1993-01-01,2018-12-31,2019-01-01,2019-12-31,0.17676393562453485,"{'max_depth': None, 'n_estimators': 150}","Using best_params: {'max_depth': None, 'n_estimators': 150}"
+1994-01-01,2019-12-31,2020-01-01,2020-12-31,-0.06931383774605182,"{'max_depth': None, 'n_estimators': 150}","Using best_params: {'max_depth': None, 'n_estimators': 150}"
+1995-01-01,2020-12-31,2021-01-01,2021-12-31,0.016670557280332066,"{'max_depth': None, 'n_estimators': 150}","Using best_params: {'max_depth': None, 'n_estimators': 150}"
+1996-01-01,2021-12-31,2022-01-01,2022-12-31,0.0634290829134867,"{'max_depth': None, 'n_estimators': 150}","Using best_params: {'max_depth': None, 'n_estimators': 150}"
+1997-01-01,2022-12-31,2023-01-01,2023-12-29,0.1046280445564467,"{'max_depth': None, 'n_estimators': 150}","Using best_params: {'max_depth': None, 'n_estimators': 150}"
