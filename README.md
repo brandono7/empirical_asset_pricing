@@ -9,6 +9,8 @@ git clone https://github.com/brandono7/empirical_asset_pricing.git
 ```
 or download the repository as a zip file and extract it to a location of your choice.
 
+Note that due to large csv files in data, you will need to have git lfs installed in order to successfully clone the repository.
+
 **Prerequisites**
 
 Before running the project, make sure to install the following python libraries on your virtual environment via terminal / command prompt:
